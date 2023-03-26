@@ -1,0 +1,15 @@
+C:\Users\cypim\source\repos\NWD\NWD\bin\Debug\net6.0\NWD.exe
+C:\Users\cypim\source\repos\NWD\NWD\bin\Debug\net6.0\NWD.deps.json
+C:\Users\cypim\source\repos\NWD\NWD\bin\Debug\net6.0\NWD.runtimeconfig.json
+C:\Users\cypim\source\repos\NWD\NWD\bin\Debug\net6.0\NWD.dll
+C:\Users\cypim\source\repos\NWD\NWD\bin\Debug\net6.0\NWD.pdb
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\NWD.csproj.AssemblyReference.cache
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\NWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\NWD.AssemblyInfoInputs.cache
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\NWD.AssemblyInfo.cs
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\NWD.csproj.CoreCompileInputs.cache
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\NWD.dll
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\refint\NWD.dll
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\NWD.pdb
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\NWD.genruntimeconfig.cache
+C:\Users\cypim\source\repos\NWD\NWD\obj\Debug\net6.0\ref\NWD.dll
