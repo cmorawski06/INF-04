@@ -1,0 +1,16 @@
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.AssemblyReference.cache
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\App.g.cs
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3_MarkupCompile.cache
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.exe.config
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.exe
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.pdb
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\MainWindow.g.cs
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3_MarkupCompile.lref
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\MainWindow.baml
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.g.resources
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie_3.Properties.Resources.resources
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.GenerateResource.cache
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.exe
+C:\Users\cypim\source\repos\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.pdb
